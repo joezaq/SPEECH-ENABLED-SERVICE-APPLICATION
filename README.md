@@ -34,7 +34,7 @@ Output Delivery – *Response is returned to the user.*
 ## Results
 The system successfully demonstrates reliable speech recognition using the whisper model and command execution, improving interaction efficiency and enabling seamless integration with external applications.
 
-#### index
+## Index
 **How to Run**
 The Jupyter notebook (.ipynb file) provided in this folder guides you through the process of training a fine-tuned Whisper model. Running the notebook on Google Colab with a GPU will successfully train the model.
 

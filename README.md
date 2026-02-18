@@ -36,7 +36,7 @@ The system successfully demonstrates reliable speech recognition using the whisp
 
 ## Index
 **How to Run**
-The Jupyter notebook (.ipynb file) provided in this folder guides you through the process of training a fine-tuned Whisper model. Running the notebook on Google Colab with a GPU will successfully train the model.
+The Jupyter notebook (.ipynb file) in this folder guides you through training a fine-tuned Whisper model. Running the notebook on Google Colab with a GPU will successfully train the model.
 
 **Downloading the Model**
 After training, the model and its processor can be downloaded for further use.

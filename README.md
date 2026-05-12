@@ -1,5 +1,5 @@
 # Overview
-This project presents an integrated speech-enabled service that allows third-party applications to interact with users through voice input. The system converts speech into actionable commands, enabling more natural human–computer interaction and improving accessibility.
+This project presents an integrated speech-enabled service that allow third-party applications to interact with users through voice input. The system converts speech into actionable commands, enabling more natural human–computer interaction and improving accessibility.
 
 The service demonstrates how voice interfaces can be embedded into existing applications to enhance user experience, automation, and accessibility.
 
